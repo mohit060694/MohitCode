@@ -22,7 +22,7 @@ public class MethodCalculator {
 
         switch (input) {
             case 1:
-                int sum = num2 + num1;
+                int sum = num2 + num1;// example
                 System.out.println("Sum is :" + sum);
                 break;
             case 2:
